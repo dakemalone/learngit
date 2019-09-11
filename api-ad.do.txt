@@ -1,0 +1,32 @@
+{
+	"status": 1,
+	"msg": "success",
+	"data": {
+		"list": [{
+			"status": 1,
+			"msg": "success",
+			"posid": "789",
+			"ads": [{
+				"adid": "2c92803f6c42ab42016c51e6e0d6002f",
+				"showmode": "native",
+				"crt_type": 3,
+				"images": [{
+					"imgurl": "https://img.uluru.tech/images/20190803092216_25651.jpg",
+					"w": 1024,
+					"h": 600
+				}],
+				"target_type": 1,
+				"targeturl": "http://www.uluru.tech/api/redirect.do?pas=eyJhZElkIjoiMmM5MjgwM2Y2YzQyYWI0MjAxNmM1MWU2ZTBkNjAwMmYiLCJhcHBLZXkiOiI0MDUzY2Y5ODQzMTg0YjlhOGYxYjEzYTNlMDQ3ZDViMiIsImJpZFRpbWUiOjE1Njc2NjM2NjM3MDgsImRldmljZUlkIjoiNTdkOWIyNzU3YTg2ZmI2YjkxOWZhZjBlY2I3ZmQ5MmIiLCJkZXZpY2VUeXBlIjoiYW5kcm9pZElkIiwiaHR0cFVybCI6Imh0dHA6Ly91bHVydS50ZWNoIiwiaHR0cHNVcmwiOiJodHRwczovL3VsdXJ1LnRlY2giLCJpZGVhSWQiOiIyYzkyODAzZjZjNDJhYjQyMDE2YzU1MTI0YmRkMDA0NSIsImltcElkIjoiYWM1ZTZkNzI0YzhhYTdmZDEyY2RhZjdhM2E2ZDY2YzkiLCJwbGF0Zm9ybSI6InRhb2ppbmx1IiwicG9zdElkIjoiNzg5IiwicmVxdWVzdElQIjoiMTI3LjAuMC4xIiwic3RyYXRlZ3lJZCI6IjE1YjY1NDIxNTBkNjQ3Y2RhMWMzMTY4OTNmMWNkNzViIn0%3D",
+				"sr": [{
+					"url": "http://www.uluru.tech/api/showReport.do?pas=eyJhZElkIjoiMmM5MjgwM2Y2YzQyYWI0MjAxNmM1MWU2ZTBkNjAwMmYiLCJhcHBLZXkiOiI0MDUzY2Y5ODQzMTg0YjlhOGYxYjEzYTNlMDQ3ZDViMiIsImJpZFRpbWUiOjE1Njc2NjM2NjM3MDgsImRldmljZUlkIjoiNTdkOWIyNzU3YTg2ZmI2YjkxOWZhZjBlY2I3ZmQ5MmIiLCJkZXZpY2VUeXBlIjoiYW5kcm9pZElkIiwiaHR0cFVybCI6Imh0dHA6Ly91bHVydS50ZWNoIiwiaHR0cHNVcmwiOiJodHRwczovL3VsdXJ1LnRlY2giLCJpZGVhSWQiOiIyYzkyODAzZjZjNDJhYjQyMDE2YzU1MTI0YmRkMDA0NSIsImltcElkIjoiYWM1ZTZkNzI0YzhhYTdmZDEyY2RhZjdhM2E2ZDY2YzkiLCJwbGF0Zm9ybSI6InRhb2ppbmx1IiwicG9zdElkIjoiNzg5IiwicmVxdWVzdElQIjoiMTI3LjAuMC4xIiwic3RyYXRlZ3lJZCI6IjE1YjY1NDIxNTBkNjQ3Y2RhMWMzMTY4OTNmMWNkNzViIn0%3D"
+				}],
+				"cr": [{
+					"url": "http://www.uluru.tech/api/clickReport.do?pas=eyJhZElkIjoiMmM5MjgwM2Y2YzQyYWI0MjAxNmM1MWU2ZTBkNjAwMmYiLCJhcHBLZXkiOiI0MDUzY2Y5ODQzMTg0YjlhOGYxYjEzYTNlMDQ3ZDViMiIsImJpZFRpbWUiOjE1Njc2NjM2NjM3MDgsImRldmljZUlkIjoiNTdkOWIyNzU3YTg2ZmI2YjkxOWZhZjBlY2I3ZmQ5MmIiLCJkZXZpY2VUeXBlIjoiYW5kcm9pZElkIiwiaHR0cFVybCI6Imh0dHA6Ly91bHVydS50ZWNoIiwiaHR0cHNVcmwiOiJodHRwczovL3VsdXJ1LnRlY2giLCJpZGVhSWQiOiIyYzkyODAzZjZjNDJhYjQyMDE2YzU1MTI0YmRkMDA0NSIsImltcElkIjoiYWM1ZTZkNzI0YzhhYTdmZDEyY2RhZjdhM2E2ZDY2YzkiLCJwbGF0Zm9ybSI6InRhb2ppbmx1IiwicG9zdElkIjoiNzg5IiwicmVxdWVzdElQIjoiMTI3LjAuMC4xIiwic3RyYXRlZ3lJZCI6IjE1YjY1NDIxNTBkNjQ3Y2RhMWMzMTY4OTNmMWNkNzViIn0%3D"
+				}],
+				"clr": [{
+					"url": "http://www.uluru.tech/api/closeReport.do?pas=eyJhZElkIjoiMmM5MjgwM2Y2YzQyYWI0MjAxNmM1MWU2ZTBkNjAwMmYiLCJhcHBLZXkiOiI0MDUzY2Y5ODQzMTg0YjlhOGYxYjEzYTNlMDQ3ZDViMiIsImJpZFRpbWUiOjE1Njc2NjM2NjM3MDgsImRldmljZUlkIjoiNTdkOWIyNzU3YTg2ZmI2YjkxOWZhZjBlY2I3ZmQ5MmIiLCJkZXZpY2VUeXBlIjoiYW5kcm9pZElkIiwiaHR0cFVybCI6Imh0dHA6Ly91bHVydS50ZWNoIiwiaHR0cHNVcmwiOiJodHRwczovL3VsdXJ1LnRlY2giLCJpZGVhSWQiOiIyYzkyODAzZjZjNDJhYjQyMDE2YzU1MTI0YmRkMDA0NSIsImltcElkIjoiYWM1ZTZkNzI0YzhhYTdmZDEyY2RhZjdhM2E2ZDY2YzkiLCJwbGF0Zm9ybSI6InRhb2ppbmx1IiwicG9zdElkIjoiNzg5IiwicmVxdWVzdElQIjoiMTI3LjAuMC4xIiwic3RyYXRlZ3lJZCI6IjE1YjY1NDIxNTBkNjQ3Y2RhMWMzMTY4OTNmMWNkNzViIn0%3D"
+				}]
+			}]
+		}]
+	}
+}
