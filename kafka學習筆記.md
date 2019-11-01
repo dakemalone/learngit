@@ -3,6 +3,12 @@
 标签（空格分隔）： 消息中間件
 
 ---
+## 启动kafka ##
+
+ 1. 启动kafka服务因为kafka是依赖zookeeper的所以首先要确保zookeeper已经安装并启动。 `kafka-server-start.sh config/server.properties`
+ 2. 创建topic话题`kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic test`    --replication-factor 是复制的数量                                    --partitions 是分区的数量                                            --topic test 是topic话题的名字
+ 3. 启动消息生产者`kafka-console-producer.sh --broker-list localhost:9092 --topic test`                                          --broker-list 是节点的意思，我们启动的单个kafka实例则为一个broker，多个则可以组成kafka集群
+ 4. 启动消息接收者`kafka-console-consumer.sh --boostrap-server localhost:9092 --topic test --from-begining`
 
 ## 消息的兩種方式 ##
 點對點的消息系統：簡單來說就是生產者發送消息到隊列中，消費者從隊列中取出消息，如圖所示：
